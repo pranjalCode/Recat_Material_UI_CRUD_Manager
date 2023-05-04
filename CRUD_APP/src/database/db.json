@@ -1,0 +1,20 @@
+{
+  "user": [
+    {
+      "name": "Mark Jukarb",
+      "empid": "Mk04",
+      "desig": "CEO",
+      "email": "maek09@gmail.com",
+      "mobile": "5874631400",
+      "id": 4
+    },
+    {
+      "name": "Mukesh Ambani",
+      "empid": "mk74",
+      "desig": "Founder",
+      "email": "mukes76@yahoo.com",
+      "mobile": "8745123690",
+      "id": 5
+    }
+  ]
+}
